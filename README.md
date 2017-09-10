@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/chikuwait/ngx_memory_leak_killer.svg?branch=master)](https://travis-ci.org/chikuwait/ngx_memory_leak_killer)
 # ngx_memory_leak_killer
 ngx_memory_leak_killer can graceful restart a working process that exceeds the upper limit of memory usage. Thanks to [nginx-hello-world-module](https://github.com/perusio/nginx-hello-world-module) and [ngx_bumpylife](https://github.com/cubicdaiya/ngx_bumpylife).
 
