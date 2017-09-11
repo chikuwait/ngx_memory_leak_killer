@@ -9,9 +9,9 @@ ngx_memory_leak_killer can graceful restart a working process that exceeds the u
 
 ```nginx
 http {
-memory_leak_killer on;
-memory_leak_killer_limit 5000; #5MB
-...
+    memory_leak_killer on;
+    memory_leak_killer_limit 5000; #5MB
+    ...
 }
 ```
 
