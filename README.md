@@ -60,4 +60,4 @@ ubuntu   23519  0.0  0.0  16908  1936 ?        S    08:46   0:00  \_ nginx: work
 
 ## LICENSE
 
-See [LICENSE](ngx_memory_leak_killer/LICENSE).
+See [LICENSE](/LICENSE).
